@@ -2,7 +2,7 @@
 layout: post
 title: "Landing Page and FAQ"
 subtitle: "Should have links to everything you need"
-background: '\img\bg-about.jpg'
+background: '\img\posts\landing-page\bg-landing-page.jpg'
 ---
 
 ![Fancy artwork of Mash, Jeanne, and Saber](\img\posts\landing-page\landing-page-1.jpg)
