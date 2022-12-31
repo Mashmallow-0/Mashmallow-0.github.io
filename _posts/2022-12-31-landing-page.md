@@ -7,7 +7,7 @@ background: '\img\posts\landing-page\bg-landing-page.jpg'
 
 # Servant Reviews
 
-- <a class="nav-link" href="{{ "/posts" | relative_url }}">All reviews</a>
+- <a href="{{ "/posts" | relative_url }}">All reviews</a>
 
 ![Fancy artwork of Mash, Jeanne, and Saber](\img\posts\landing-page\landing-page-1.jpg)
 
